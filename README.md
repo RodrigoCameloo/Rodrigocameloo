@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Oiii eu sou Rodrigo Camelo, atualmente sou Supervisor de TI!
+## Oiii eu sou Rodrigo Camelo, atualmente Supervisor de TI!
 <div align="center">
   <a href="https://github.com/rodrigocameloo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodrigocameloo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
